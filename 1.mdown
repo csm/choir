@@ -1,4 +1,4 @@
-# I. OF DREAMS
+# I. SONG OF DREAMS
 
 He awoke from his seventeenth lifetime to the low hum of the chamber where he'd spent fifty-five years before violently ending his life on the harsh, crag-filled moon of ε-Eridani-2, commanding a battalion overseeing the eradication of the hostile arachnoid population that had plagued the terraforming efforts of ε-Eridani-2, dubbed _Elysia_ by the colonists, for a half century. This lifetime took little more than three hours, Earth time.
 
@@ -82,11 +82,16 @@ An hour passed without his noticing the time flow. His hands orchestrated each s
 
 All solutions were committed, and he glanced again through his answers. Satisfied, he brought up the option to commit his exam. The screen dimmed everything else in his vision and asked:
 
-> `Commit solutions now? This cannot be undone, and your solutions will determine your score. YES or NO.`
+> `Commit solutions now? This cannot be undone, and`  
+> `your solutions will determine your score.`  
+> `YES or NO.`
 
 Without hesitation he poked a finger through the glowing YES. Barely a moment passed, and the screen came back to say:
 
-> `You answered 46 of 47 problems correctly; one problem was given 66.6% credit. You finished the exam first out of all students. Review missed answers? YES or NO.`
+> `You answered 46 of 47 problems correctly;`  
+> `one problem was given 66.6% credit.`  
+> `You finished the exam first out of all students.`  
+> `Review missed answers? YES or NO.`
 
 He relaxed back into the seat, and lazily selected NO. His screen faded with that, with dim text reading _Thank you. Your performance today was excellent._ He sat there, watching the other students as best he could through the haze of their own screens, as they motioned with their hands, manipulating data now as men manipulated physical objects for millennia before them.
 
